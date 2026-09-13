@@ -1,25 +1,41 @@
 ---
-title: "Simone"
+title: "Sunny Liang Tan"
+image: sunny1.jpg
 about:
+  id: short-bio
   template: jolla
-  image: profile.jpg
+  image-shape: round
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: file-earmark-pdf
+      text: CV
+      href: Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf
+    - icon: twitter-x
+      text: X
+      href: https://x.com/LiangTan12
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/sunnyliangtan
+
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+:::{#short-bio}
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+I am a Ph.D. candidate from **UCLA** in **macroeconomics and development**. 
 
-Please feel free to get in touch!
+**I am on the 2026–2027 economics job market.**
+
+:::
+
+## Job Market Paper
+
+### Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China (Expected October 2026)
+
+Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.
+
+## Working Papers
+
+### Exchange-Rate Movements and U.S. Corporations (Expected October 2026)
+
+*Joint with [Ivo Welch](https://www.ivo-welch.org/home/) and [Yuqing Zhou](https://www.yuqingzhou.com)
+
+Use U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.

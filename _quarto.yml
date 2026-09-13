@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Sunny Liang Tan"
+  site-url: "https://sunnyliangtan.github.io"
   favicon: logo.png
   navbar:
     left:
@@ -11,7 +12,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: cv.pdf
+      - href: Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf
         text: CV
 
 format:

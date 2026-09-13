@@ -1,0 +1,21 @@
+---
+title: "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China"
+author:
+  - Sunny Liang Tan
+date: "2026-10-01"
+description: "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+categories:
+  - Job Market Paper
+  - Industrial Policy
+  - Production Networks
+---
+
+## Abstract
+
+Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.
+
+## Materials
+
+- [Paper](industrial-policy-paper.pdf)
+- [Online appendix](industrial-policy-appendix.pdf)
+- [Slides](industrial-policy-slides.pdf)

@@ -1,29 +1,26 @@
 ---
-title: "Simone"
+title: "Sunny Liang Tan"
 about:
   template: trestles
-  image: profile.jpg
+  image: sunny1.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: file-earmark-pdf
+      text: CV
+      href: Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf
+    - icon: twitter-x
+      text: X
+      href: https://x.com/LiangTan12
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: www.linkedin.com/in/sunnyliangtan
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I obtained my Bachelor's degree in Economics and Finance from University of Hong Kong in 2019, and Master of Arts in Economics from Duke University in 2021. I was a visiting scholar at MIT Department of Economics from 2024-2025. Prior to academia, I worked as an analyst at Softbank Venture Capital.
 
-## Education
+I grew up in Hunan province in mainland China where we are known for our spicy-eating culture.
 
-Where I studied
+## Contact
 
-## Experience
+Department of Economics, UCLA
 
-What I've done
+[tanliang@ucla.edu](mailto:tanliang@ucla.edu)

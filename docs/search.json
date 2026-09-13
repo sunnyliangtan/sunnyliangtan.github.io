@@ -2,21 +2,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Sunny Liang Tan",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "I obtained my Bachelor’s degree in Economics and Finance from University of Hong Kong in 2019, and Master of Arts in Economics from Duke University in 2021. I was a visiting scholar at MIT Department of Economics from 2024-2025. Prior to academia, I worked as an analyst at Softbank Venture Capital.\nI grew up in Hunan province in mainland China where we are known for our spicy-eating culture."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Sunny Liang Tan",
     "section": "Education",
-    "text": "Education\nWhere I studied"
+    "text": "Education\nPhD in Economics, UCLA, expected 2027\nMA in Economics, Duke University, 2021\nBA in Economics and Finance, University of Hong Kong, 2019"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Sunny Liang Tan",
     "section": "Experience",
     "text": "Experience\nWhat I’ve done"
   },
@@ -32,7 +32,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
@@ -44,8 +44,148 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Sunny Liang Tan",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a Ph.D. candidate from UCLA in macroeconomics and development.\nI am on the 2026–2027 economics job market.\n \n  \n   \n  \n    \n     CV\n  \n  \n    \n     X\n  \n  \n    \n     LinkedIn"
+  },
+  {
+    "objectID": "index.html#job-market-paper",
+    "href": "index.html#job-market-paper",
+    "title": "Sunny Liang Tan",
+    "section": "Job Market Paper",
+    "text": "Job Market Paper\n\nPropagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China (Expected October 2026)\nUsing Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+  },
+  {
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
+    "title": "Sunny Liang Tan",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nExchange-Rate Movements and U.S. Corporations (Expected October 2026)\n*Joint with Ivo Welch and Yuqing Zhou\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Sunny Liang Tan",
+    "section": "Research interests",
+    "text": "Research interests\n\nInternational Trade and Spatial Economics\nDevelopment Economics\nIndustrial Policy"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Sunny Liang Tan",
+    "section": "Contact",
+    "text": "Contact\nDepartment of Economics, UCLA\ntanliang@ucla.edu"
+  },
+  {
+    "objectID": "research/index.html#job-market-paper",
+    "href": "research/index.html#job-market-paper",
+    "title": "Research",
+    "section": "",
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\n\nExchange-Rate Movements and U.S. Corporations\n\n\n\n\n\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan, Ivo Welch, Yuqing Zhou\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#work-in-progress",
+    "href": "research/index.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n\n\n\n\nAre Banks Discriminatory? Evidence from U.S. Residential Lending\n\n\n\n\n\nWe merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity.\n\n\n\n\n\nSunny Liang Tan, Jon Vogel\n\n\n\n\n\n\n\nCoordination in Production Networks\n\n\n\n\n\nUsing Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities.\n\n\n\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/job-market-paper.html",
+    "href": "research/job-market-paper.html",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "",
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+  },
+  {
+    "objectID": "research/job-market-paper.html#abstract",
+    "href": "research/job-market-paper.html#abstract",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "",
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+  },
+  {
+    "objectID": "research/job-market-paper.html#materials",
+    "href": "research/job-market-paper.html#materials",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "Materials",
+    "text": "Materials\n\nPaper\nOnline appendix\nSlides"
+  },
+  {
+    "objectID": "research/wp-exchange-rate.html",
+    "href": "research/wp-exchange-rate.html",
+    "title": "Exchange-Rate Movements and U.S. Corporations",
+    "section": "",
+    "text": "Joint with Ivo Welch and Yuqing Zhou."
+  },
+  {
+    "objectID": "research/wp-exchange-rate.html#abstract",
+    "href": "research/wp-exchange-rate.html#abstract",
+    "title": "Exchange-Rate Movements and U.S. Corporations",
+    "section": "Abstract",
+    "text": "Abstract\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold."
+  },
+  {
+    "objectID": "research/wp-exchange-rate.html#materials",
+    "href": "research/wp-exchange-rate.html#materials",
+    "title": "Exchange-Rate Movements and U.S. Corporations",
+    "section": "Materials",
+    "text": "Materials\n\nPaper\nAppendix"
+  },
+  {
+    "objectID": "research/jmp-industrial-policy.html",
+    "href": "research/jmp-industrial-policy.html",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "",
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+  },
+  {
+    "objectID": "research/jmp-industrial-policy.html#abstract",
+    "href": "research/jmp-industrial-policy.html#abstract",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "",
+    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+  },
+  {
+    "objectID": "research/jmp-industrial-policy.html#materials",
+    "href": "research/jmp-industrial-policy.html#materials",
+    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "section": "Materials",
+    "text": "Materials\n\nPaper\nOnline appendix\nSlides"
+  },
+  {
+    "objectID": "research/wip-bank-discrimination.html",
+    "href": "research/wip-bank-discrimination.html",
+    "title": "Are Banks Discriminatory? Evidence from U.S. Residential Lending",
+    "section": "",
+    "text": "We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences (DiD) design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity."
+  },
+  {
+    "objectID": "research/wip-bank-discrimination.html#overview",
+    "href": "research/wip-bank-discrimination.html#overview",
+    "title": "Are Banks Discriminatory? Evidence from U.S. Residential Lending",
+    "section": "",
+    "text": "We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences (DiD) design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity."
+  },
+  {
+    "objectID": "research/wip-coordination.html",
+    "href": "research/wip-coordination.html",
+    "title": "Coordination in Production Networks",
+    "section": "",
+    "text": "Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities."
+  },
+  {
+    "objectID": "research/wip-coordination.html#overview",
+    "href": "research/wip-coordination.html#overview",
+    "title": "Coordination in Production Networks",
+    "section": "",
+    "text": "Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities."
   }
 ]

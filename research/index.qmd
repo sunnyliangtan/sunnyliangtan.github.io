@@ -1,9 +1,51 @@
 ---
 title: "Research"
+
+format:
+  html:
+    page-layout: full
+    toc: false
+    body-classes: research-page
+
 listing:
-  type: default
-  contents:
-    - "*.qmd"
+  - id: job-market-paper
+    contents: "jmp-*.qmd"
+    type: default
+    fields: [title, subtitle, author, date, description]
+    max-description-length: 1000
+    sort-ui: false
+    filter-ui: false
+
+  - id: working-papers
+    contents: "wp-*.qmd"
+    type: default
+    fields: [title, subtitle, author, date, description]
+    max-description-length: 1000
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+
+  - id: work-in-progress
+    contents: "wip-*.qmd"
+    type: default
+    fields: [title, subtitle, author, date, description]
+    max-description-length: 1000
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
 ---
 
-All of my research projects.
+## Job Market Paper
+
+:::{#job-market-paper}
+:::
+
+## Working Papers
+
+:::{#working-papers}
+:::
+
+## Work in Progress
+
+:::{#work-in-progress}
+:::
