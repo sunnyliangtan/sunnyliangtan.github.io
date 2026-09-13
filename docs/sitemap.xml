@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sunnyliangtan.github.io/index.html</loc>
-    <lastmod>2026-09-13T01:17:54.080Z</lastmod>
-  </url>
-  <url>
     <loc>https://sunnyliangtan.github.io/about.html</loc>
-    <lastmod>2026-09-13T00:47:17.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sunnyliangtan.github.io/research/index.html</loc>
-    <lastmod>2026-09-13T00:55:24.572Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sunnyliangtan.github.io/research/job-market-paper.html</loc>
-    <lastmod>2026-09-12T23:59:36.907Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sunnyliangtan.github.io/research/wp-exchange-rate.html</loc>
-    <lastmod>2026-09-13T00:30:53.196Z</lastmod>
+    <lastmod>2026-09-13T00:54:34.266Z</lastmod>
   </url>
   <url>
     <loc>https://sunnyliangtan.github.io/research/jmp-industrial-policy.html</loc>
     <lastmod>2026-09-13T00:30:40.724Z</lastmod>
   </url>
   <url>
+    <loc>https://sunnyliangtan.github.io/research/wip-coordination.html</loc>
+    <lastmod>2026-09-13T00:32:38.143Z</lastmod>
+  </url>
+  <url>
     <loc>https://sunnyliangtan.github.io/research/wip-bank-discrimination.html</loc>
     <lastmod>2026-09-13T00:32:40.342Z</lastmod>
   </url>
   <url>
-    <loc>https://sunnyliangtan.github.io/research/wip-coordination.html</loc>
-    <lastmod>2026-09-13T00:32:38.143Z</lastmod>
+    <loc>https://sunnyliangtan.github.io/research/wp-exchange-rate.html</loc>
+    <lastmod>2026-09-13T00:30:53.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sunnyliangtan.github.io/research/index.html</loc>
+    <lastmod>2026-09-13T00:55:24.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sunnyliangtan.github.io/index.html</loc>
+    <lastmod>2026-09-13T01:17:54.080Z</lastmod>
   </url>
 </urlset>
