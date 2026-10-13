@@ -12,7 +12,7 @@ listing:
     contents: "jmp-*.qmd"
     type: default
     fields: [title, subtitle, author, date, description]
-    max-description-length: 1000
+    max-description-length: 2000
     sort-ui: false
     filter-ui: false
 
@@ -20,7 +20,7 @@ listing:
     contents: "wp-*.qmd"
     type: default
     fields: [title, subtitle, author, date, description]
-    max-description-length: 1000
+    max-description-length: 2000
     sort: "date desc"
     sort-ui: false
     filter-ui: false
@@ -29,7 +29,7 @@ listing:
     contents: "wip-*.qmd"
     type: default
     fields: [title, subtitle, author, date, description]
-    max-description-length: 1000
+    max-description-length: 2000
     sort: "date desc"
     sort-ui: false
     filter-ui: false
