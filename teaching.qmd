@@ -8,51 +8,45 @@ format:
 
 My teaching philosophy centers on **interest, active learning, and intellectual exchange**.
 
-I have served as a teaching assistant for the following courses. Evaluation links open the original reports as PDFs.
+I have served as a teaching assistant for the following courses.
+
+[Teaching evaluation summary (PDF)](teaching/evaluations/Sunny_teaching_evaluations_summary.pdf){.btn .btn-outline-primary}
 
 ## University of California, Los Angeles
 
 ::: {.teaching-course}
-### Principles of Economics (ECON 1)
-
-- **Winter 2024:** [Section 1E](teaching/evaluations/ucla-econ1-winter2024-1e.pdf) · [Section 1H](teaching/evaluations/ucla-econ1-winter2024-1h.pdf)
-- **Spring 2026:** [Section 1A](teaching/evaluations/ucla-econ1-spring2026-1a.pdf) · [Section 1B](teaching/evaluations/ucla-econ1-spring2026-1b.pdf)
+### Principles of Economics (ECON 1) {.no-anchor}
+Winter 2024, Spring 2026
 :::
 
 ::: {.teaching-course}
-### Microeconomic Theory (ECON 101)
-
-- **Fall 2022 (ECON 101):** [Section 1K](teaching/evaluations/ucla-econ101-fall2022-1k.pdf) · [Section 1L](teaching/evaluations/ucla-econ101-fall2022-1l.pdf)
-- **Winter 2023 (ECON 101):** [Section 1B](teaching/evaluations/ucla-econ101-winter2023-1b.pdf) · [Section 1H](teaching/evaluations/ucla-econ101-winter2023-1h.pdf)
-- **Fall 2023 (ECON 101):** [Section 1C](teaching/evaluations/ucla-econ101-fall2023-1c.pdf) · [Section 1H](teaching/evaluations/ucla-econ101-fall2023-1h.pdf)
+### Microeconomic Theory (ECON 101) {.no-anchor}
+Fall 2022, Winter 2023, Fall 2023
 :::
 
 ::: {.teaching-course}
-### Microeconomic Theory (ECON 11)
-
-- **Winter 2026:** [Section 1A](teaching/evaluations/ucla-econ11-winter2026-1a.pdf) · [Section 1G](teaching/evaluations/ucla-econ11-winter2026-1g.pdf)
+### Microeconomic Theory (ECON 11) {.no-anchor}
+Winter 2026
 :::
 
 ::: {.teaching-course}
-### Ph.D. International Macroeconomics (ECON 202C)
-
-**Spring 2024:** [Teaching evaluation](teaching/evaluations/ucla-econ202c-spring2024-1.pdf)
+### Ph.D. International Macroeconomics (ECON 202C) {.no-anchor}
+Spring 2024
 :::
 
 ::: {.teaching-course}
-### Competitive Strategy (ECON 106S)
-
-**Spring 2023 (elective):** [Lab 1A](teaching/evaluations/ucla-econ106sl-spring2023-1a.pdf) · [Lab 1B](teaching/evaluations/ucla-econ106sl-spring2023-1b.pdf)
+### Competitive Strategy (ECON 106S) {.no-anchor}
+Spring 2023 (elective)
 :::
 
 ## Duke University
 
 ::: {.teaching-course}
-### Ph.D. Econometrics II
+### Ph.D. Econometrics II {.no-anchor}
 Fall 2020
 :::
 
 ::: {.teaching-course}
-### Econometrics and Data Science
+### Econometrics and Data Science {.no-anchor}
 Spring 2021
 :::
