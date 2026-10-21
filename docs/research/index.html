@@ -37,8 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../logo.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -76,91 +74,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-job-market-paper .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-job-market-paper'] = new List('listing-job-market-paper', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-work-in-progress .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-work-in-progress'] = new List('listing-work-in-progress', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <meta name="google-site-verification" content="dRyMp2N5NDEAw_7zG_WNqNOaaHUFy0-oAqpIgaUtp-4">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -222,7 +135,11 @@ window.Quarto = {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf"> 
+    <a class="nav-link" href="../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../Sunny_Liang_Tan_CV.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -261,114 +178,42 @@ window.Quarto = {
 
 <section id="job-market-paper" class="level2">
 <h2 class="anchored" data-anchor-id="job-market-paper">Job Market Paper</h2>
-<div id="listing-job-market-paper" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Sm9iJTIwTWFya2V0JTIwUGFwZXIlMkNJbmR1c3RyaWFsJTIwUG9saWN5JTJDUHJvZHVjdGlvbiUyME5ldHdvcmtz" data-listing-date-sort="1790838000000" data-listing-file-modified-sort="1789259440724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/jmp-industrial-policy.html" class="no-external">Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/jmp-industrial-policy.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../research/jmp-industrial-policy.html" class="no-external">
-<p>Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/jmp-industrial-policy.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2026
-</div>
-<div class="listing-author">
-Sunny Liang Tan
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
+<div id="industrial-policy" class="research-paper">
+<section id="creating-or-correcting-misallocation-government-venture-capital-and-network-propagation-in-china" class="level3 paper-title unnumbered unlisted">
+<h3 class="paper-title unnumbered unlisted anchored" data-anchor-id="creating-or-correcting-misallocation-government-venture-capital-and-network-propagation-in-china"><a href="industrial-policy-paper.pdf">Creating or Correcting Misallocation? Government Venture Capital and Network Propagation in China</a></h3>
+<p>Does industrial policy correct misallocation or create new distortions? We examine government venture capital in China by quantifying its aggregate TFP implications, separating technological gains from improvements in resource allocation. To estimate the aggregate TFP effect, we need to establish where resources are directed, how firms’ technology and input use respond, and what output is forgone elsewhere. Using linked investment, administrative, patent, and supplier–buyer data, we measure baseline marginal products and estimate recipient and trading-partner responses with a matched staggered difference-in-differences design. Production-network sufficient statistics then value the estimated resource transfers at marginal-product gaps relative to firms releasing resources and add the technological contribution. We find that recipients are concentrated in strategic sectors, and both recipients and their trading partners exhibit greater innovative activity. Further, recipients and suppliers have higher pre-treatment marginal revenue products of capital and labor than the same-industry firms supplying the offsetting resources, whereas buyers have lower marginal products. Capital and employment subsequently expand across all three groups, with positive allocative contributions from recipients and suppliers and a negative contribution from buyers. Firm-level physical productivity (TFPQ) shows no detectable short-run increase. Taken together, these responses imply a manufacturing TFP-equivalent gain of approximately <span class="math inline">\(0.07\%\)</span> under fixed industry factor supplies, driven principally by recipients. At the scale of 2016 manufacturing, the gain is equivalent to approximately RMB 14.51 billion in additional output, before incremental policy implementation costs. The findings suggest that public capital can improve allocation when private venture finance is underdeveloped and investment selection retains commercial incentives.</p>
+</section>
 </div>
 </section>
 <section id="working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
-<div id="listing-working-papers" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="V29ya2luZyUyMFBhcGVyJTJDSW50ZXJuYXRpb25hbCUyMEZpbmFuY2U=" data-listing-date-sort="1790838000000" data-listing-file-modified-sort="1789259453196" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wp-exchange-rate.html" class="no-external">Exchange-Rate Movements and U.S. Corporations</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/wp-exchange-rate.html" class="no-external"></a>
+<div id="exchange-rate" class="research-paper">
+<section id="exchange-rate-movements-and-u.s.-corporations" class="level3 paper-title unnumbered unlisted">
+<h3 class="paper-title unnumbered unlisted anchored" data-anchor-id="exchange-rate-movements-and-u.s.-corporations"><a href="exchange-rate-paper.pdf">Exchange-Rate Movements and U.S. Corporations</a></h3>
+<div class="paper-authors">
+<p>Joint with <a href="https://www.ivo-welch.org/home/">Ivo Welch</a> and <a href="https://www.yuqingzhou.com">Yuqing Zhou</a>.</p>
 </div>
-<div class="delink listing-description"><a href="../research/wp-exchange-rate.html" class="no-external">
-<p>Use U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wp-exchange-rate.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2026
-</div>
-<div class="listing-author">
-Sunny Liang Tan, Ivo Welch, Yuqing Zhou
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
+<p>This paper revisits the exchange-rate exposure puzzle: why prior research finds weak relationships between currency movements and U.S. firms’ stock returns despite substantial international trade. Linking transaction-level U.S. Census export records to financial statements and stock returns for publicly traded U.S. exporters from 1992 to 2016, we construct firm-specific exchange-rate exposure measures that reflect each firm’s export destinations. Dollar depreciation is associated with economically significant increases in exports, sales, profitability, and stock returns, with export, sales, and stock-return sensitivities generally larger among larger and more export-oriented firms. In asset- or export-weighted specifications, a 1% depreciation is associated with approximately 0.4-0.6% higher exports and 0.6-0.8% higher sales. The stronger sales response is consistent with currency movements affecting domestic competitiveness as well as foreign demand, while the profitability results indicate that financial and operational hedging do not fully offset exposure. Real operating sensitivities increase over time. Stock prices respond contemporaneously, with no detectable delayed response around subsequent earnings announcements. By measuring exposure using firms’ actual trading relationships and tracing its implications across operating outcomes and equity valuations, the paper contributes new evidence to the exchange-rate exposure literature and shows that substantial corporate currency exposure can coexist with timely incorporation of information into stock prices.</p>
+</section>
 </div>
 </section>
-<section id="work-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="work-in-progress">Work in Progress</h2>
-<div id="listing-work-in-progress" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1789259560342" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-bank-discrimination.html" class="no-external">Are Banks Discriminatory? Evidence from U.S. Residential Lending</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/wip-bank-discrimination.html" class="no-external"></a>
+<section id="work-in-progress" class="level2 no-anchor">
+<h2 class="no-anchor" data-anchor-id="work-in-progress">Work in Progress</h2>
+<div id="ev-battery" class="research-paper">
+<section id="industrial-policy-and-scale-complementarities-in-ev-battery-supply-chains" class="level3 paper-title unnumbered unlisted no-anchor">
+<h3 class="paper-title unnumbered unlisted no-anchor" data-anchor-id="industrial-policy-and-scale-complementarities-in-ev-battery-supply-chains">Industrial Policy and Scale Complementarities in EV Battery Supply Chains</h3>
+<p>This project studies whether increasing returns at successive stages of production amplify industrial subsidies through mutually reinforcing demand and cost linkages. Support for EV battery producers may expand demand for battery materials, allowing upstream suppliers to achieve lower unit costs. If these savings are passed through to battery producers, they can induce further downstream expansion. We have linked income-tax balance-sheet records, VAT data, and firm-to-firm transactions for Anhui province. The planned analysis traces policy-induced expansion through preexisting supply relationships and examines suppliers’ scale, costs, investment, and sales to other buyers. Where product quantities and prices can be measured consistently, we will investigate the transmission of upstream cost savings to downstream customers. We aim to distinguish scale economies from changes in demand, markups, product composition, and supplier selection, and to identify which benefits decentralized firms fail to internalize. The quantitative goal is to discipline a production-network model with these estimates and compare upstream, downstream, and joint support under a common fiscal budget.</p>
+</section>
 </div>
-<div class="delink listing-description"><a href="../research/wip-bank-discrimination.html" class="no-external">
-<p>We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity.</p>
-</a></div>
+<div id="semiconductor" class="research-paper">
+<section id="industrial-policy-and-induced-innovation-in-semiconductor-supply-chains" class="level3 paper-title unnumbered unlisted no-anchor">
+<h3 class="paper-title unnumbered unlisted no-anchor" data-anchor-id="industrial-policy-and-induced-innovation-in-semiconductor-supply-chains">Industrial Policy and Induced Innovation in Semiconductor Supply Chains</h3>
+<div class="paper-authors">
+<p>Joint with Mervyn Ho.</p>
 </div>
-<div class="metadata">
-<a href="../research/wip-bank-discrimination.html" class="no-external">
-<div class="listing-author">
-Sunny Liang Tan, Jon Vogel
+<p>This paper studies whether industrial policy induces technological upgrading among semiconductor equipment makers by supporting their downstream customers. Chipmakers’ adoption of more advanced production technologies raises the technical requirements facing equipment suppliers. The resulting demand can make costly equipment development worthwhile, while repeated production, testing, and customer feedback can generate learning that benefits subsequent customers. Combining government venture capital investment records, administrative firm data, and supplier-buyer transactions with semiconductor fabrication capacity and process-technology data, the project traces equipment makers’ exposure to policy-supported chipmakers through pre-existing supply relationships. The empirical analysis distinguishes customer capacity expansion from advances in process technology and examines whether these changes induce corresponding capability upgrading among equipment suppliers. It investigates whether supplier upgrading varies with the duration and intensity of exposure to technologically advancing customers, and whether newly developed capabilities extend to other buyers. Changes in sourcing relationships help distinguish upgrading within incumbent suppliers from substitution.</p>
+</section>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1789259558143" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-coordination.html" class="no-external">Coordination in Production Networks</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/wip-coordination.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../research/wip-coordination.html" class="no-external">
-<p>Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wip-coordination.html" class="no-external">
-<div class="listing-author">
-Sunny Liang Tan
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-
 
 
 </section>

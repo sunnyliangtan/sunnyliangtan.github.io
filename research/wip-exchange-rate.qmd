@@ -1,0 +1,13 @@
+---
+title: "Research"
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=index.html" />
+          <link rel="canonical" href="index.html" />
+---
+
+[Continue to Research](index.html).

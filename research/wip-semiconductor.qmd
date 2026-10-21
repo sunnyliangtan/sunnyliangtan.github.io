@@ -1,0 +1,13 @@
+---
+title: "Industrial Policy and Induced Innovation in Semiconductor Supply Chains"
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=index.html#semiconductor" />
+          <link rel="canonical" href="index.html#semiconductor" />
+---
+
+[Continue to Research](index.html#semiconductor).

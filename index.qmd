@@ -8,7 +8,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: "Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf?v=20260917"
+      href: "Sunny_Liang_Tan_CV.pdf?v=20261020"
     - icon: twitter-x
       text: X
       href: https://x.com/LiangTan12
@@ -28,14 +28,6 @@ I am a Ph.D. candidate from **UCLA** in **macroeconomics and development**.
 
 ## Job Market Paper
 
-### Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China (Expected October 2026)
+### Creating or Correcting Misallocation? Government Venture Capital and Network Propagation in China (Expected October 2026)
 
-Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.
-
-## Working Papers
-
-### Exchange-Rate Movements and U.S. Corporations (Expected October 2026)
-
-*Joint with [Ivo Welch](https://www.ivo-welch.org/home/) and [Yuqing Zhou](https://www.yuqingzhou.com)
-
-Use U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.
+Does industrial policy correct misallocation or create new distortions? We examine government venture capital in China by quantifying its aggregate TFP implications, separating technological gains from improvements in resource allocation. To estimate the aggregate TFP effect, we need to establish where resources are directed, how firms' technology and input use respond, and what output is forgone elsewhere. Using linked investment, administrative, patent, and supplier--buyer data, we measure baseline marginal products and estimate recipient and trading-partner responses with a matched staggered difference-in-differences design. Production-network sufficient statistics then value the estimated resource transfers at marginal-product gaps relative to firms releasing resources and add the technological contribution. We find that recipients are concentrated in strategic sectors, and both recipients and their trading partners exhibit greater innovative activity. Further, recipients and suppliers have higher pre-treatment marginal revenue products of capital and labor than the same-industry firms supplying the offsetting resources, whereas buyers have lower marginal products. Capital and employment subsequently expand across all three groups, with positive allocative contributions from recipients and suppliers and a negative contribution from buyers. Firm-level physical productivity (TFPQ) shows no detectable short-run increase. Taken together, these responses imply a manufacturing TFP-equivalent gain of approximately $0.07\%$ under fixed industry factor supplies, driven principally by recipients. At the scale of 2016 manufacturing, the gain is equivalent to approximately RMB~14.51 billion in additional output, before incremental policy implementation costs. The findings suggest that public capital can improve allocation when private venture finance is underdeveloped and investment selection retains commercial incentives.

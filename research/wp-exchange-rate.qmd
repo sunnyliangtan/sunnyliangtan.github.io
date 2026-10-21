@@ -1,23 +1,13 @@
 ---
 title: "Exchange-Rate Movements and U.S. Corporations"
-author:
-  - Sunny Liang Tan
-  - Ivo Welch
-  - Yuqing Zhou
-date: "2026-10-01"
-description: "Use U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold."
-categories:
-  - Working Paper
-  - International Finance
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=exchange-rate-paper.pdf" />
+          <link rel="canonical" href="exchange-rate-paper.pdf" />
 ---
 
-*Joint with [Ivo Welch](https://www.ivo-welch.org/home/) and [Yuqing Zhou](https://www.yuqingzhou.com).*
-
-## Abstract
-
-Use U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.
-
-## Materials
-
-- [Paper](exchange-rate-paper.pdf)
-- [Appendix](exchange-rate-appendix.pdf)
+[Continue to the paper](exchange-rate-paper.pdf).

@@ -1,10 +1,13 @@
 ---
-title: "Coordination in Production Networks"
-author:
-  - Sunny Liang Tan
-description: "Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities."
+title: "Research"
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=index.html" />
+          <link rel="canonical" href="index.html" />
 ---
 
-## Overview
-
-Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities.
+[Continue to Research](index.html).

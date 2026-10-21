@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Sunny Liang Tan",
     "section": "",
-    "text": "I obtained my Bachelor’s degree in Economics and Finance from University of Hong Kong in 2019, and Master of Arts in Economics from Duke University in 2021. I was a visiting scholar at MIT Department of Economics from 2024-2025. Prior to academia, I worked as an analyst at Softbank Venture Capital.\nI grew up in Hunan province in mainland China where we are known for our spicy-eating culture."
+    "text": "I obtained my Bachelor’s degree in Economics and Finance from University of Hong Kong in 2019, and Master of Arts in Economics from Duke University in 2021. I was a visiting scholar at MIT Department of Economics from 2024-2025.\nI grew up in Hunan province in mainland China where we are known for our spicy-eating culture."
   },
   {
     "objectID": "about.html#contact",
@@ -14,102 +14,53 @@
     "text": "Contact\nDepartment of Economics, UCLA\ntanliang@ucla.edu"
   },
   {
-    "objectID": "research/jmp-industrial-policy.html",
-    "href": "research/jmp-industrial-policy.html",
-    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+    "text": "My teaching philosophy centers on interest, active learning, and intellectual exchange.\nI have served as a teaching assistant for the following courses. Evaluation links open the original reports as PDFs."
   },
   {
-    "objectID": "research/jmp-industrial-policy.html#abstract",
-    "href": "research/jmp-industrial-policy.html#abstract",
-    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
-    "section": "",
-    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
+    "objectID": "teaching.html#university-of-california-los-angeles",
+    "href": "teaching.html#university-of-california-los-angeles",
+    "title": "Teaching",
+    "section": "University of California, Los Angeles",
+    "text": "University of California, Los Angeles\n\nPrinciples of Economics (ECON 1)\n\nWinter 2024: Section 1E · Section 1H\nSpring 2026: Section 1A · Section 1B\n\n\n\nMicroeconomic Theory (ECON 101)\n\nFall 2022 (ECON 101): Section 1K · Section 1L\nWinter 2023 (ECON 101): Section 1B · Section 1H\nFall 2023 (ECON 101): Section 1C · Section 1H\n\n\n\nMicroeconomic Theory (ECON 11)\n\nWinter 2026: Section 1A · Section 1G\n\n\n\nPh.D. International Macroeconomics (ECON 202C)\nSpring 2024: Teaching evaluation\n\n\nCompetitive Strategy (ECON 106S)\nSpring 2023 (elective): Lab 1A · Lab 1B"
   },
   {
-    "objectID": "research/jmp-industrial-policy.html#materials",
-    "href": "research/jmp-industrial-policy.html#materials",
-    "title": "Propagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China",
-    "section": "Materials",
-    "text": "Materials\n\nPaper\nOnline appendix\nSlides"
-  },
-  {
-    "objectID": "research/wip-coordination.html",
-    "href": "research/wip-coordination.html",
-    "title": "Coordination in Production Networks",
-    "section": "",
-    "text": "Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities."
-  },
-  {
-    "objectID": "research/wip-coordination.html#overview",
-    "href": "research/wip-coordination.html#overview",
-    "title": "Coordination in Production Networks",
-    "section": "",
-    "text": "Using Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities."
-  },
-  {
-    "objectID": "research/wip-bank-discrimination.html",
-    "href": "research/wip-bank-discrimination.html",
-    "title": "Are Banks Discriminatory? Evidence from U.S. Residential Lending",
-    "section": "",
-    "text": "We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences (DiD) design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity."
-  },
-  {
-    "objectID": "research/wip-bank-discrimination.html#overview",
-    "href": "research/wip-bank-discrimination.html#overview",
-    "title": "Are Banks Discriminatory? Evidence from U.S. Residential Lending",
-    "section": "",
-    "text": "We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences (DiD) design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity."
-  },
-  {
-    "objectID": "research/wp-exchange-rate.html",
-    "href": "research/wp-exchange-rate.html",
-    "title": "Exchange-Rate Movements and U.S. Corporations",
-    "section": "",
-    "text": "Joint with Ivo Welch and Yuqing Zhou."
-  },
-  {
-    "objectID": "research/wp-exchange-rate.html#abstract",
-    "href": "research/wp-exchange-rate.html#abstract",
-    "title": "Exchange-Rate Movements and U.S. Corporations",
-    "section": "Abstract",
-    "text": "Abstract\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold."
-  },
-  {
-    "objectID": "research/wp-exchange-rate.html#materials",
-    "href": "research/wp-exchange-rate.html#materials",
-    "title": "Exchange-Rate Movements and U.S. Corporations",
-    "section": "Materials",
-    "text": "Materials\n\nPaper\nAppendix"
+    "objectID": "teaching.html#duke-university",
+    "href": "teaching.html#duke-university",
+    "title": "Teaching",
+    "section": "Duke University",
+    "text": "Duke University\n\nPh.D. Econometrics II\nFall 2020\n\n\nEconometrics and Data Science\nSpring 2021"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
+    "text": "Does industrial policy correct misallocation or create new distortions? We examine government venture capital in China by quantifying its aggregate TFP implications, separating technological gains from improvements in resource allocation. To estimate the aggregate TFP effect, we need to establish where resources are directed, how firms’ technology and input use respond, and what output is forgone elsewhere. Using linked investment, administrative, patent, and supplier–buyer data, we measure baseline marginal products and estimate recipient and trading-partner responses with a matched staggered difference-in-differences design. Production-network sufficient statistics then value the estimated resource transfers at marginal-product gaps relative to firms releasing resources and add the technological contribution. We find that recipients are concentrated in strategic sectors, and both recipients and their trading partners exhibit greater innovative activity. Further, recipients and suppliers have higher pre-treatment marginal revenue products of capital and labor than the same-industry firms supplying the offsetting resources, whereas buyers have lower marginal products. Capital and employment subsequently expand across all three groups, with positive allocative contributions from recipients and suppliers and a negative contribution from buyers. Firm-level physical productivity (TFPQ) shows no detectable short-run increase. Taken together, these responses imply a manufacturing TFP-equivalent gain of approximately \\(0.07\\%\\) under fixed industry factor supplies, driven principally by recipients. At the scale of 2016 manufacturing, the gain is equivalent to approximately RMB 14.51 billion in additional output, before incremental policy implementation costs. The findings suggest that public capital can improve allocation when private venture finance is underdeveloped and investment selection retains commercial incentives."
   },
   {
     "objectID": "research/index.html#job-market-paper",
     "href": "research/index.html#job-market-paper",
     "title": "Research",
     "section": "",
-    "text": "Using Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
+    "text": "Does industrial policy correct misallocation or create new distortions? We examine government venture capital in China by quantifying its aggregate TFP implications, separating technological gains from improvements in resource allocation. To estimate the aggregate TFP effect, we need to establish where resources are directed, how firms’ technology and input use respond, and what output is forgone elsewhere. Using linked investment, administrative, patent, and supplier–buyer data, we measure baseline marginal products and estimate recipient and trading-partner responses with a matched staggered difference-in-differences design. Production-network sufficient statistics then value the estimated resource transfers at marginal-product gaps relative to firms releasing resources and add the technological contribution. We find that recipients are concentrated in strategic sectors, and both recipients and their trading partners exhibit greater innovative activity. Further, recipients and suppliers have higher pre-treatment marginal revenue products of capital and labor than the same-industry firms supplying the offsetting resources, whereas buyers have lower marginal products. Capital and employment subsequently expand across all three groups, with positive allocative contributions from recipients and suppliers and a negative contribution from buyers. Firm-level physical productivity (TFPQ) shows no detectable short-run increase. Taken together, these responses imply a manufacturing TFP-equivalent gain of approximately \\(0.07\\%\\) under fixed industry factor supplies, driven principally by recipients. At the scale of 2016 manufacturing, the gain is equivalent to approximately RMB 14.51 billion in additional output, before incremental policy implementation costs. The findings suggest that public capital can improve allocation when private venture finance is underdeveloped and investment selection retains commercial incentives."
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\n\n\nExchange-Rate Movements and U.S. Corporations\n\n\n\n\n\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold.\n\n\n\n\n\nOct 1, 2026\n\n\nSunny Liang Tan, Ivo Welch, Yuqing Zhou\n\n\n\n\n\nNo matching items"
+    "text": "Working Papers\n\n\nExchange-Rate Movements and U.S. Corporations\n\nJoint with Ivo Welch and Yuqing Zhou.\n\nThis paper revisits the exchange-rate exposure puzzle: why prior research finds weak relationships between currency movements and U.S. firms’ stock returns despite substantial international trade. Linking transaction-level U.S. Census export records to financial statements and stock returns for publicly traded U.S. exporters from 1992 to 2016, we construct firm-specific exchange-rate exposure measures that reflect each firm’s export destinations. Dollar depreciation is associated with economically significant increases in exports, sales, profitability, and stock returns, with export, sales, and stock-return sensitivities generally larger among larger and more export-oriented firms. In asset- or export-weighted specifications, a 1% depreciation is associated with approximately 0.4-0.6% higher exports and 0.6-0.8% higher sales. The stronger sales response is consistent with currency movements affecting domestic competitiveness as well as foreign demand, while the profitability results indicate that financial and operational hedging do not fully offset exposure. Real operating sensitivities increase over time. Stock prices respond contemporaneously, with no detectable delayed response around subsequent earnings announcements. By measuring exposure using firms’ actual trading relationships and tracing its implications across operating outcomes and equity valuations, the paper contributes new evidence to the exchange-rate exposure literature and shows that substantial corporate currency exposure can coexist with timely incorporation of information into stock prices."
   },
   {
     "objectID": "research/index.html#work-in-progress",
     "href": "research/index.html#work-in-progress",
     "title": "Research",
     "section": "Work in Progress",
-    "text": "Work in Progress\n\n\n\n\n\nAre Banks Discriminatory? Evidence from U.S. Residential Lending\n\n\n\n\n\nWe merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity.\n\n\n\n\n\nSunny Liang Tan, Jon Vogel\n\n\n\n\n\n\n\nCoordination in Production Networks\n\n\n\n\n\nUsing Chinese VAT administrative data, I study complementarities when upstream and downstream firms receive investment simultaneously. I examine how information frictions, financing constraints, and decentralized decision-making generate under-coordination, and whether government coordination and policy intervention can internalize production-network complementarities.\n\n\n\n\n\nSunny Liang Tan\n\n\n\n\n\nNo matching items"
+    "text": "Work in Progress\n\n\nIndustrial Policy and Scale Complementarities in EV Battery Supply Chains\nThis project studies whether increasing returns at successive stages of production amplify industrial subsidies through mutually reinforcing demand and cost linkages. Support for EV battery producers may expand demand for battery materials, allowing upstream suppliers to achieve lower unit costs. If these savings are passed through to battery producers, they can induce further downstream expansion. We have linked income-tax balance-sheet records, VAT data, and firm-to-firm transactions for Anhui province. The planned analysis traces policy-induced expansion through preexisting supply relationships and examines suppliers’ scale, costs, investment, and sales to other buyers. Where product quantities and prices can be measured consistently, we will investigate the transmission of upstream cost savings to downstream customers. We aim to distinguish scale economies from changes in demand, markups, product composition, and supplier selection, and to identify which benefits decentralized firms fail to internalize. The quantitative goal is to discipline a production-network model with these estimates and compare upstream, downstream, and joint support under a common fiscal budget.\n\n\n\n\nIndustrial Policy and Induced Innovation in Semiconductor Supply Chains\n\nJoint with Mervyn Ho.\n\nThis paper studies whether industrial policy induces technological upgrading among semiconductor equipment makers by supporting their downstream customers. Chipmakers’ adoption of more advanced production technologies raises the technical requirements facing equipment suppliers. The resulting demand can make costly equipment development worthwhile, while repeated production, testing, and customer feedback can generate learning that benefits subsequent customers. Combining government venture capital investment records, administrative firm data, and supplier-buyer transactions with semiconductor fabrication capacity and process-technology data, the project traces equipment makers’ exposure to policy-supported chipmakers through pre-existing supply relationships. The empirical analysis distinguishes customer capacity expansion from advances in process technology and examines whether these changes induce corresponding capability upgrading among equipment suppliers. It investigates whether supplier upgrading varies with the duration and intensity of exposure to technologically advancing customers, and whether newly developed capabilities extend to other buyers. Changes in sourcing relationships help distinguish upgrading within incumbent suppliers from substitution."
   },
   {
     "objectID": "index.html",
@@ -123,13 +74,6 @@
     "href": "index.html#job-market-paper",
     "title": "Sunny Liang Tan",
     "section": "Job Market Paper",
-    "text": "Job Market Paper\n\nPropagation of Industrial Policy Along Supply Chains: Evidence from Government Venture Capital in China (Expected October 2026)\nUsing Chinese VAT administrative data and VC/PE records, I construct firm-level investment and transaction measures and apply a matched staggered difference-in-differences design to identify the causal effects of government industrial guidance funds on productive efficiency, capital allocation, labor demand, and sales growth, as well as upstream and downstream spillovers. The funds target innovative firms, whose expansion subsequently promotes growth and innovation among downstream firms. I further incorporate innovation into a Baqaee-Farhi production-network model and quantify the aggregate output gains from government venture capital investment. The results provide an economic rationale for industrial policy in the presence of induced learning along production networks."
-  },
-  {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Sunny Liang Tan",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nExchange-Rate Movements and U.S. Corporations (Expected October 2026)\n*Joint with Ivo Welch and Yuqing Zhou\nUse U.S. Census LFTTD microdata and shift-share instruments to estimate the effects of exchange-rate exposure and the associated elasticities for exports, sales, and equity returns. The study provides firm-level micro evidence showing that the apparent macro-level exchange rate-stock market disconnect does not hold."
+    "text": "Job Market Paper\n\nCreating or Correcting Misallocation? Government Venture Capital and Network Propagation in China (Expected October 2026)\nDoes industrial policy correct misallocation or create new distortions? We examine government venture capital in China by quantifying its aggregate TFP implications, separating technological gains from improvements in resource allocation. To estimate the aggregate TFP effect, we need to establish where resources are directed, how firms’ technology and input use respond, and what output is forgone elsewhere. Using linked investment, administrative, patent, and supplier–buyer data, we measure baseline marginal products and estimate recipient and trading-partner responses with a matched staggered difference-in-differences design. Production-network sufficient statistics then value the estimated resource transfers at marginal-product gaps relative to firms releasing resources and add the technological contribution. We find that recipients are concentrated in strategic sectors, and both recipients and their trading partners exhibit greater innovative activity. Further, recipients and suppliers have higher pre-treatment marginal revenue products of capital and labor than the same-industry firms supplying the offsetting resources, whereas buyers have lower marginal products. Capital and employment subsequently expand across all three groups, with positive allocative contributions from recipients and suppliers and a negative contribution from buyers. Firm-level physical productivity (TFPQ) shows no detectable short-run increase. Taken together, these responses imply a manufacturing TFP-equivalent gain of approximately \\(0.07\\%\\) under fixed industry factor supplies, driven principally by recipients. At the scale of 2016 manufacturing, the gain is equivalent to approximately RMB~14.51 billion in additional output, before incremental policy implementation costs. The findings suggest that public capital can improve allocation when private venture finance is underdeveloped and investment selection retains commercial incentives."
   }
 ]

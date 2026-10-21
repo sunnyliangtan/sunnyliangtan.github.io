@@ -12,7 +12,9 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: "Sunny_Liang_Tan_MIT_Style_English_Job_Market_CV.pdf"
+      - href: teaching.qmd
+        text: Teaching
+      - href: "Sunny_Liang_Tan_CV.pdf"
         text: CV
 
 format:

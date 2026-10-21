@@ -1,11 +1,13 @@
 ---
-title: "Are Banks Discriminatory? Evidence from U.S. Residential Lending"
-author:
-  - Sunny Liang Tan
-  - Jon Vogel
-description: "We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity."
+title: "Research"
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=index.html" />
+          <link rel="canonical" href="index.html" />
 ---
 
-## Overview
-
-We merge court-order data with bank Call Reports to construct a matched panel of more than two million observations and use a difference-in-differences (DiD) design to identify the causal effects of judicial interventions on lending behavior and bank credit-supply elasticity.
+[Continue to Research](index.html).

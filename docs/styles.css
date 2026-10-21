@@ -1,51 +1,48 @@
-/* Research page width */
+/* Research: every full abstract appears on one page. */
 body.research-page #quarto-document-content {
   width: 100%;
-  max-width: 1100px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* More space between papers */
-body.research-page .quarto-post {
-  gap: 1.5rem;
-  padding: 0.8rem 0 1.5rem;
-  margin-bottom: 1.5rem;
+.research-paper {
+  margin: 1.5rem 0 2.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 
-/* Allow the paper information to use the available width */
-body.research-page .quarto-post .body {
-  flex: 1 1 auto;
-  min-width: 0;
-}
-
-/* Keep the author/date column reasonably narrow */
-@media (min-width: 768px) {
-  body.research-page .quarto-post .metadata {
-    flex: 0 0 175px;
-  }
-}
-
-/* Make paper titles prominent */
-body.research-page .listing-title {
+.research-paper h3.paper-title {
+  margin: 0 0 0.85rem;
   font-size: 1.3rem;
-  line-height: 1.3;
-  margin-bottom: 0.85rem !important;
-}
-
-body.research-page .listing-title a {
-  color: #212529;
+  line-height: 1.4;
   font-weight: 700;
 }
 
-/* Blue title when hovering */
-body.research-page .listing-title a:hover {
-  color: #2780e3;
+.research-paper h3.paper-title a {
+  color: #212529;
+  text-decoration: none;
 }
 
-/* Improve description readability */
-body.research-page .listing-description {
-  width: 100%;
-  font-size: 1rem;
-  line-height: 1.55;
+.research-paper h3.paper-title a:hover,
+.research-paper h3.paper-title a:focus-visible {
+  color: #2780e3;
+  text-decoration: underline;
+}
+
+.paper-authors {
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+/* Teaching: simple course blocks also fit narrow screens. */
+.teaching-course {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.teaching-course h3 {
+  margin-bottom: 0.4rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
 }

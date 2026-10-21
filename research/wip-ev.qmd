@@ -1,0 +1,13 @@
+---
+title: "Industrial Policy and Scale Complementarities in EV Battery Supply Chains"
+search: false
+toc: false
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="0; url=index.html#ev-battery" />
+          <link rel="canonical" href="index.html#ev-battery" />
+---
+
+[Continue to Research](index.html#ev-battery).
