@@ -1,5 +1,5 @@
 ---
-title: "Creating or Correcting Misallocation? Government Venture Capital and Network Propagation in China"
+title: "Government Venture Capital, Production Networks, and Aggregate Productivity in China"
 search: false
 toc: false
 format:

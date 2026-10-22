@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - Sunny_Liang_Tan_CV.pdf
 
 website:
   title: "Sunny Liang Tan"
@@ -14,7 +16,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: "Sunny_Liang_Tan_CV.pdf"
+      - href: "Sunny_Liang_Tan_CV.pdf?v=20261021-no-EV-coauthors"
         text: CV
 
 format:
