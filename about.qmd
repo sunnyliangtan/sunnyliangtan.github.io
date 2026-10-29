@@ -2,7 +2,7 @@
 title: "Sunny Liang Tan"
 about:
   template: trestles
-  image: sunny1.jpg
+  image: Sunny.jpg
   links:
     - icon: file-earmark-pdf
       text: CV

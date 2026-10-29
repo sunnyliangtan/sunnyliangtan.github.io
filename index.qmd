@@ -1,6 +1,6 @@
 ---
 title: "Sunny Liang Tan"
-image: sunny1.jpg
+image: Sunny.jpg
 about:
   id: short-bio
   template: jolla
