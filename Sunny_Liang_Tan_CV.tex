@@ -17,11 +17,6 @@
 \setlist[itemize]{leftmargin=14pt,itemsep=1pt,topsep=2pt,parsep=0pt}
 \newcommand{\entry}[3]{\begin{tabularx}{\linewidth}{@{}p{1.24in}X@{}}\parbox[t]{1.24in}{\textbf{#1}}&\textbf{#2}\newline #3\end{tabularx}\par\vspace{2pt}}
 \newcommand{\paper}[1]{\textbf{#1}\par\nopagebreak}
-% Default website and Dropbox CV include all coauthors. To omit only the EV paper coauthors, compile with:
-% xelatex -jobname=Sunny_Liang_Tan_CV_without_EV_coauthors "\def\CVWithoutEVCoauthors{1}\input{Sunny_Liang_Tan_CV.tex}"
-\newif\ifshowevcoauthors
-\ifdefined\CVWithoutEVCoauthors\showevcoauthorsfalse\else\showevcoauthorstrue\fi
-\newcommand{\evcoauthors}[1]{\ifshowevcoauthors\space with #1\fi}
 \begin{document}
 \fontsize{10.5}{12.3}\selectfont
 \begin{center}{\LARGE\bfseries Sunny Liang Tan {\chinesefont (谭靓)}}\end{center}
@@ -69,13 +64,14 @@ Abstract: Industrial policy can affect firms that receive no direct support thro
 \section*{Working Paper}
 \textbf{Exchange-Rate Movements and U.S. Corporations} with Ivo Welch and Yuqing Zhou\par\nopagebreak
 
-Abstract: This paper revisits the exchange-rate exposure puzzle: why prior research finds weak relationships between currency movements and U.S. firms' stock returns despite substantial international trade. Linking transaction-level U.S. Census export records to financial statements and stock returns for publicly traded U.S. exporters from 1992 to 2016, we construct firm-specific exchange-rate exposure measures that reflect each firm's export destinations. Dollar depreciation is associated with economically significant increases in exports, sales, profitability, and stock returns, with export, sales, and stock-return sensitivities generally larger among larger and more export-oriented firms. In asset- or export-weighted specifications, a 1\% depreciation is associated with approximately 0.4-0.6\% higher exports and 0.6-0.8\% higher sales. The stronger sales response is consistent with currency movements affecting domestic competitiveness as well as foreign demand, while the profitability results indicate that financial and operational hedging do not fully offset exposure. Real operating sensitivities increase over time. Stock prices respond contemporaneously, with no detectable delayed response around subsequent earnings announcements. By measuring exposure using firms' actual trading relationships and tracing its implications across operating outcomes and equity valuations, the paper contributes new evidence to the exchange-rate exposure literature and shows that substantial corporate currency exposure can coexist with timely incorporation of information into stock prices.
+Abstract: Linking U.S. Census export transactions to financial statements and stock returns for publicly traded U.S. exporters from 1992 to 2016, this paper revisits the exchange-rate exposure puzzle using firm-specific measures based on export destinations. Dollar depreciation is associated with higher exports, sales, profitability, and stock returns, with stronger exposure among larger and more export-oriented firms. In asset- or export-weighted specifications, a 1\% depreciation is associated with approximately 0.4--0.6\% higher exports and 0.6--0.8\% higher sales, consistent with effects on domestic competitiveness as well as foreign demand. Operating sensitivities increase over time, while stock prices respond contemporaneously with no detectable delayed response around subsequent earnings announcements. The findings show that substantial corporate currency exposure can coexist with timely pricing.
 \section*{Work in Progress}
-\textbf{Industrial Policy and Scale Complementarities in EV Battery Supply Chains}\evcoauthors{Junjie Xia and Binkai Chen}\par\nopagebreak
+\textbf{Industrial Policy and Scale Complementarities in EV Battery Supply Chains} with Junjie Xia and Binkai Chen\par\nopagebreak
 
-Abstract: This project studies whether increasing returns at successive stages of production amplify industrial subsidies through mutually reinforcing demand and cost linkages. Support for EV battery producers may expand demand for battery materials, allowing upstream suppliers to achieve lower unit costs. If these savings are passed through to battery producers, they can induce further downstream expansion. We have linked income-tax balance-sheet records, VAT data, and firm-to-firm transactions. The planned analysis traces policy-induced expansion through preexisting supply relationships and examines suppliers' scale, costs, investment, and sales to other buyers. Where product quantities and prices can be measured consistently, we will investigate the transmission of upstream cost savings to downstream customers. We aim to distinguish scale economies from changes in demand, markups, product composition, and supplier selection, and to identify which benefits decentralized firms fail to internalize. The quantitative goal is to discipline a production-network model with these estimates and compare upstream, downstream, and joint support under a common fiscal budget.
+Abstract: This project studies whether scale economies at successive production stages amplify industrial subsidies through mutually reinforcing demand and cost linkages in EV battery supply chains. Support for battery producers can increase demand for materials, allowing suppliers to lower unit costs; when passed downstream, these savings can induce further expansion. Using linked income-tax, VAT, and firm-to-firm transaction data, the analysis traces policy exposure through existing supplier relationships and examines suppliers' scale, costs, investment, and sales to other buyers. It distinguishes scale economies from changes in demand, markups, product composition, and supplier selection, and will discipline a production-network model to compare upstream, downstream, and joint support under a common fiscal budget.
 \par\textbf{Industrial Policy and Induced Innovation in Semiconductor Supply Chains} with Meryvn Ho\par\nopagebreak
-Abstract: This paper studies whether industrial policy induces technological upgrading among semiconductor equipment makers by supporting their downstream customers. Chipmakers' adoption of more advanced production technologies raises the technical requirements facing equipment suppliers. The resulting demand can make costly equipment development worthwhile, while repeated production, testing, and customer feedback can generate learning that benefits subsequent customers. Combining government venture capital investment records, administrative firm data, and supplier-buyer transactions with semiconductor fabrication capacity and process-technology data, the project traces equipment makers' exposure to policy-supported chipmakers through pre-existing supply relationships. The empirical analysis distinguishes customer capacity expansion from advances in process technology and examines whether these changes induce corresponding capability upgrading among equipment suppliers. It investigates whether supplier upgrading varies with the duration and intensity of exposure to technologically advancing customers, and whether newly developed capabilities extend to other buyers. Changes in sourcing relationships help distinguish upgrading within incumbent suppliers from substitution toward suppliers that already possess advanced capabilities. The economic mechanism is a dynamic complementarity between downstream technological adoption and upstream innovation: customer upgrading creates incentives for equipment development, while improvements in equipment enable further adoption. The paper aims to identify when industrial policy activates this process, generating transferable learning and technological advancement beyond directly financed firms.
+Abstract: This project studies whether support for downstream chipmakers induces technological upgrading among semiconductor equipment suppliers. More advanced chip production raises equipment requirements, potentially making costly supplier innovation worthwhile, while repeated testing and customer feedback may generate learning that benefits subsequent buyers. Combining government venture capital investments, administrative firm data, supplier--buyer transactions, and fabrication-capacity and process-technology data, the analysis distinguishes customer capacity expansion from technological advances and examines how exposure duration and intensity shape supplier upgrading. It investigates whether new capabilities extend to other buyers and separates upgrading within incumbent suppliers from substitution toward suppliers that already possess advanced capabilities, tracing transferable learning beyond directly financed firms.
+\Needspace{12\baselineskip}
 \section*{Teaching Experience}
 \textbf{University of California, Los Angeles (UCLA)}\\
 Teaching Assistant, Principles of Economics (Winter 2024, Spring 2026)\\
@@ -87,6 +83,16 @@ Teaching Assistant, Competitive Strategy (elective; Spring 2023)
 \textbf{Duke University}\\
 Teaching Assistant, Ph.D. Econometrics II (Fall 2020)\\
 Teaching Assistant, Econometrics and Data Science (Spring 2021)
+\Needspace{10\baselineskip}
+\section*{Fellowships and Awards}
+\begin{tabularx}{\linewidth}{@{}p{1.24in}X@{}}
+\textbf{2021--2027}&UCLA Graduate Fellowship\\[2pt]
+\textbf{2020}&M.A. Merit Scholar Award, Duke University\\[2pt]
+\textbf{2018}&HKU Centennial Scholarship\\[2pt]
+\textbf{2015--2016,}\newline\textbf{2017--2018}&Dean's Honors List\\[6pt]
+\textbf{2016}&Hong Kong SAR Government Reaching Out Award
+\end{tabularx}\par\vspace{2pt}
+\Needspace{8\baselineskip}
 \section*{Presentations and Professional Service}
 \begin{itemize}
 \item Presentation: South Cal International Macro Finance Conference, 2026.
@@ -98,6 +104,12 @@ Teaching Assistant, Econometrics and Data Science (Spring 2021)
 \section*{Research Experience}
 \begin{tabularx}{\linewidth}{@{}p{1.24in}X r@{}}
 \parbox[t]{1.24in}{\textbf{Jan 2023 -\\Feb 2023}}&\textbf{University of California, Los Angeles (UCLA)}\newline Research Assistant to Jon Vogel\newline Theoretical Analysis of Labor-Market Equilibrium&Los Angeles, CA
+\end{tabularx}\par\vspace{2pt}
+\begin{tabularx}{\linewidth}{@{}p{1.24in}X r@{}}
+\parbox[t]{1.24in}{\textbf{Sep 2021 -\\Nov 2021}}&\textbf{Duke University}\newline Research Assistant to David Berger\newline Literature Reviews and Data Construction on Wages and Taxes&Durham, NC
+\end{tabularx}\par\vspace{2pt}
+\begin{tabularx}{\linewidth}{@{}p{1.24in}X r@{}}
+\parbox[t]{1.24in}{\textbf{Jan 2021 -\\Jun 2021}}&\textbf{Duke University}\newline Research Assistant to Matthew Masten\newline Econometric Proof Summaries and Literature Reviews&Durham, NC
 \end{tabularx}\par\vspace{2pt}
 \begin{tabularx}{\linewidth}{@{}p{1.24in}X r@{}}
 \parbox[t]{1.24in}{\textbf{Nov 2018 -\\Jul 2022}}&\textbf{Massachusetts Institute of Technology (MIT)}\newline Research Assistant to David Autor\newline Occupational Data Digitalization, Classification, and Econometric Analysis&Cambridge, MA
