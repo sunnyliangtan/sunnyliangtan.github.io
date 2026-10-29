@@ -8,7 +8,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: "Sunny_Liang_Tan_CV.pdf?v=20261029"
+      href: "Sunny_Liang_Tan_CV.pdf?v=20261029-fields"
     - icon: twitter-x
       text: X
       href: https://x.com/LiangTan12
@@ -20,7 +20,11 @@ about:
 
 :::{#short-bio}
 
-I am a Ph.D. candidate from **UCLA** in **macroeconomics and development**. 
+I am a Ph.D. candidate in economics at **UCLA**.
+
+**Research Fields**\
+**Primary:** Macroeconomics, International Economics\
+**Secondary:** Development Economics, Industrial Organization
 
 **I am on the 2026–2027 economics job market.**
 
