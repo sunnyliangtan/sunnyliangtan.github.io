@@ -6,8 +6,8 @@ format:
   html:
     include-in-header:
       - text: |
-          <meta http-equiv="refresh" content="0; url=industrial-policy-paper.pdf" />
-          <link rel="canonical" href="industrial-policy-paper.pdf" />
+          <meta http-equiv="refresh" content="0; url=https://www.dropbox.com/scl/fi/r535y97sbinfpkbymdgqv/Sunny_Liang_Tan_JMP.pdf?rlkey=c87sw1oevh17pybb09yctpkxu&amp;st=mn068qw6&amp;dl=0" />
+          <link rel="canonical" href="https://www.dropbox.com/scl/fi/r535y97sbinfpkbymdgqv/Sunny_Liang_Tan_JMP.pdf?rlkey=c87sw1oevh17pybb09yctpkxu&amp;st=mn068qw6&amp;dl=0" />
 ---
 
-[Continue to the paper](industrial-policy-paper.pdf).
+[Continue to the paper](https://www.dropbox.com/scl/fi/r535y97sbinfpkbymdgqv/Sunny_Liang_Tan_JMP.pdf?rlkey=c87sw1oevh17pybb09yctpkxu&st=mn068qw6&dl=0).
