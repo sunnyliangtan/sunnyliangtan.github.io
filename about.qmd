@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: "Sunny_Liang_Tan_CV.pdf?v=20261101-chair"
+      href: "Sunny_Liang_Tan_CV.pdf?v=20261101-vogel"
     - icon: twitter-x
       text: X
       href: https://x.com/LiangTan12
