@@ -16,7 +16,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: "Sunny_Liang_Tan_CV.pdf?v=20261101-vogel"
+      - href: "Sunny_Liang_Tan_CV.pdf?v=20261101-a3e1de5c"
         text: CV
 
 format:
