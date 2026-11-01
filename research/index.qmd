@@ -62,7 +62,7 @@ This paper studies whether industrial policy induces technological upgrading amo
 ### Multinational Investment and Regional Growth in Mexico {.paper-title .unnumbered .unlisted .no-anchor}
 
 ::: {.paper-authors}
-Coauthored with Martin Tobal.
+With Martin Tobal.
 :::
 
 How does foreign investment translate into productive capabilities in a host economy? This paper develops an empirical framework for studying Chinese multinational investment in Mexico following the U.S.-China trade war. The central hypothesis is that foreign entry can generate persistent regional gains through worker learning, improved labor-market matching, and spillovers to domestic firms. These mechanisms must be distinguished from the direct increase in Mexican export demand caused by U.S. tariffs on Chinese goods. We propose linking employer-employee records, manufacturing establishment surveys, foreign-ownership information, and trade data to estimate regional responses and trace workers across foreign and domestic employers. The regional design combines predetermined employment shares with sectoral Chinese investment in Vietnam as a candidate instrument for Mexican investment. Its validity requires excluding common demand and supply shocks that affect Mexico directly. Worker-mobility analysis would separate employer wage premia from earnings gains that persist after foreign-firm experience. A quantitative spatial framework would connect these responses to migration, local prices, and welfare. The paper presents hypotheses, descriptive motivation, and an implementable research design; it does not report new causal estimates.
