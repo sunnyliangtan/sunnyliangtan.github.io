@@ -70,10 +70,10 @@ How does foreign investment translate into productive capabilities in a host eco
 :::
 
 
-::: {.research-paper #semiconductor-trade}
+::: {.research-paper #multinational-production}
 
-### Multinational Networks and U.S.-China Semiconductor Trade {.paper-title .unnumbered .unlisted .no-anchor}
+### Chinese Multinationals' Overseas Production and U.S. Sales {.paper-title .unnumbered .unlisted .no-anchor}
 
-Does geographic diversification of U.S. semiconductor imports reduce exposure to China, or reorganize trade within multinational firms? This project proposes to link LFTTD semiconductor transactions with historical ownership data from Orbis and supplementary shipment records. It will trace imports supplied by Chinese-controlled affiliates in third countries and examine whether U.S. importers switch sourcing locations while retaining the same corporate suppliers following tariff changes. The analysis will quantify ownership-based exposure to China, distinguishing corporate control from Chinese input content, and assess how multinational networks shape the interpretation of semiconductor trade decoupling.
+Using transaction-level U.S. import records from LFTTD, this project measures how Chinese multinationals' production abroad supplies the U.S. market. It proposes linking foreign supplier identifiers to historical ownership data from Orbis and supplementary shipment records to identify Chinese-controlled manufacturing affiliates outside China. The analysis will trace these affiliates' U.S.-bound shipments by product, country of origin, and U.S. buyer and estimate their share of U.S. imports. By separating overseas production under Chinese ownership from direct exports from China, it will measure Chinese firms' role in supplying the United States through global production networks.
 
 :::
