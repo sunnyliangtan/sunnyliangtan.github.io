@@ -55,7 +55,7 @@ Joint with Mervyn Ho.
 
 ::: {.research-paper #mexico-nearshoring}
 
-### Multinational Investment and Regional Growth in Mexico {.paper-title .unnumbered .unlisted .no-anchor}
+### Worker Mobility and Returns to Multinational Experience in Mexico {.paper-title .unnumbered .unlisted .no-anchor}
 
 ::: {.paper-authors}
 With Martin Tobal.
