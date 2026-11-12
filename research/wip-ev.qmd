@@ -1,5 +1,5 @@
 ---
-title: "Industrial Policy and Scale Complementarities in EV Battery Supply Chains"
+title: "Upstream Scale Economies and Investment Complementarities"
 search: false
 toc: false
 format:

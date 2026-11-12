@@ -35,7 +35,7 @@ This paper revisits the exchange-rate exposure puzzle: why prior research finds 
 
 ::: {.research-paper #ev-battery}
 
-### Industrial Policy and Scale Complementarities in EV Battery Supply Chains {.paper-title .unnumbered .unlisted .no-anchor}
+### Upstream Scale Economies and Investment Complementarities {.paper-title .unnumbered .unlisted .no-anchor}
 
 ::: {.paper-authors}
 Joint with Binkai Chen and Junjie Xia.
