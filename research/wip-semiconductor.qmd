@@ -1,5 +1,5 @@
 ---
-title: "Industrial Policy and Induced Innovation in Semiconductor Supply Chains"
+title: "Chipmakers’ Process Node Upgrades and Upstream Supplier Learning"
 search: false
 toc: false
 format:

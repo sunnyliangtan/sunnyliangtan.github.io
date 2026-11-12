@@ -16,7 +16,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: "Sunny_Liang_Tan_CV.pdf?v=semiconductor-supplier-learning-e57d5d1aff"
+      - href: "Sunny_Liang_Tan_CV.pdf?v=semiconductor-node-upgrades-04ff4fda12"
         text: CV
 
 format:

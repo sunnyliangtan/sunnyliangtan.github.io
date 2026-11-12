@@ -45,7 +45,7 @@ Joint with Binkai Chen and Junjie Xia.
 
 ::: {.research-paper #semiconductor}
 
-### Industrial Policy and Induced Innovation in Semiconductor Supply Chains {.paper-title .unnumbered .unlisted .no-anchor}
+### Chipmakers’ Process Node Upgrades and Upstream Supplier Learning {.paper-title .unnumbered .unlisted .no-anchor}
 
 ::: {.paper-authors}
 Joint with Mervyn Ho.
