@@ -66,6 +66,6 @@ With Martin Tobal.
 
 ::: {.research-paper #multinational-production}
 
-### Chinese Multinationals' Overseas Production and U.S. Sales {.paper-title .unnumbered .unlisted .no-anchor}
+### Tariffs and Cross-Border Vertical Integration in Third Countries {.paper-title .unnumbered .unlisted .no-anchor}
 
 :::
