@@ -1,5 +1,5 @@
 \documentclass[11pt,letterpaper]{article}
-\usepackage[margin=0.55in]{geometry}
+\usepackage[hmargin=0.55in,top=0.43in,bottom=0.43in,footskip=17pt]{geometry}
 \usepackage{fontspec}
 \setmainfont[Path=/usr/local/texlive/2026/texmf-dist/fonts/opentype/public/lm/,BoldFont=lmroman10-bold.otf,ItalicFont=lmroman10-italic.otf]{lmroman10-regular.otf}
 \newfontfamily\chinesefont[Path=/System/Library/Fonts/Supplemental/]{Songti.ttc}
@@ -16,9 +16,10 @@
 \titlespacing*{\section}{0pt}{4pt}{2pt}
 \setlist[itemize]{leftmargin=14pt,itemsep=1pt,topsep=2pt,parsep=0pt}
 \newcommand{\entry}[3]{\begin{tabularx}{\linewidth}{@{}p{1.24in}X@{}}\parbox[t]{1.24in}{\textbf{#1}}&\textbf{#2}\newline #3\end{tabularx}\par\vspace{2pt}}
-\newcommand{\paper}[1]{\textbf{#1}\par\nopagebreak}
+\newcommand{\paper}[1]{\textbf{#1}\par\nopagebreak\vspace{2pt}\nopagebreak}
 \begin{document}
-\fontsize{10.5}{11.5}\selectfont
+\fontsize{10.5}{11.85}\selectfont
+\titlespacing*{\section}{0pt}{6pt}{4pt}
 \begin{center}{\LARGE\bfseries Sunny Liang Tan {\chinesefont (谭靓)}}\end{center}
 \begin{tabularx}{\linewidth}{@{}l l X r@{}}
 \textbf{Placement Director:}&Lee Ohanian&\href{mailto:ohanian@econ.ucla.edu}{ohanian@econ.ucla.edu}&(310) 825-0979\\[2pt]
@@ -62,22 +63,26 @@ Research Topics and Methods: Industrial Policy, Production Networks, \mbox{Micro
 \section*{Job Market Paper}
 \paper{Government Venture Capital, Production Networks, and Aggregate Productivity in China}
 Abstract: Industrial policy can reshape production well beyond the firms it directly supports, and assessing its aggregate productivity implications therefore requires measuring how supply-chain spillovers amplify or counteract recipient gains. This paper provides the first joint analysis of these direct, upstream, and downstream contributions in the setting of government venture capital in China. Linking investment records to firm accounts, patents, and supplier--buyer transactions, we identify expansion among financed firms and their existing trading partners. Suppliers expand sales and capital, while buyers expand sales and payroll. We combine these responses with baseline allocation statistics in a production-network framework that values both the resources absorbed by expanding firms and those released elsewhere. In a broad-population calibration with fixed industry factor supplies, supplier and buyer spillovers amplify the recipient contribution, with the buyer contribution accounting for most of the total. Positive labor-reallocation contributions outweigh the negative capital-reallocation contributions at trading partners. The analysis shows that production networks can substantially enlarge the productivity contribution suggested by recipient outcomes alone, highlighting their importance for evaluating industrial policy.
-\Needspace{7\baselineskip}
+\newpage
+\fontsize{10.5}{12.2}\selectfont
+\titlespacing*{\section}{0pt}{4pt}{2pt}
 \section*{Working Paper}
-\textbf{Exchange-Rate Movements and U.S. Corporations} with Ivo Welch and Yuqing Zhou\par\nopagebreak
+\textbf{Exchange-Rate Movements and U.S. Corporations} with Ivo Welch and Yuqing Zhou\par\nopagebreak\vspace{2pt}\nopagebreak
 
 Abstract: This paper revisits the exchange-rate exposure puzzle: why prior research finds weak relationships between currency movements and U.S. firms' stock returns despite substantial international trade. Linking transaction-level U.S. Census export records to financial statements and stock returns for publicly traded U.S. exporters from 1992 to 2016, we construct firm-specific exchange-rate exposure measures that reflect each firm's export destinations. Dollar depreciation is associated with economically significant increases in exports, sales, profitability, and stock returns, with export, sales, and stock-return sensitivities generally larger among larger and more export-oriented firms. In asset- or export-weighted specifications, a 1\% depreciation is associated with approximately 0.4-0.6\% higher exports and 0.6-0.8\% higher sales. The stronger sales response is consistent with currency movements affecting domestic competitiveness as well as foreign demand, while the profitability results indicate that financial and operational hedging do not fully offset exposure. Real operating sensitivities increase over time. Stock prices respond contemporaneously, with no detectable delayed response around subsequent earnings announcements. By measuring exposure using firms' actual trading relationships and tracing its implications across operating outcomes and equity valuations, the paper contributes new evidence to the exchange-rate exposure literature and shows that substantial corporate currency exposure can coexist with timely incorporation of information into stock prices.
+\par\addvspace{9pt}
 \section*{Work in Progress}
-\textbf{Industrial Policy and Scale Complementarities in EV Battery Supply Chains} with Binkai Chen and Junjie Xia\par\nopagebreak
+\textbf{Industrial Policy and Scale Complementarities in EV Battery Supply Chains} with Binkai Chen and Junjie Xia\par\nopagebreak\vspace{2pt}\nopagebreak
 
 Abstract: I study whether automakers’ investments become more profitable when other automakers invest and buy from the same battery supplier. I exploit China’s 2020 EV subsidy reform, which raised the minimum qualifying driving range to 300 km, and compare models whose pre-reform certified ranges fell just above and below the cutoff. Using pre-reform sourcing links, I estimate how the eligibility cutoff affected the battery volumes supplied by each supplier. I then test whether those suppliers offered lower battery prices to their other automaker customers and whether those customers invested more than comparable automakers with similar subsidy exposure that sourced elsewhere. I use these estimates in a model with fixed costs in battery production to assess whether the gains from shared scale are large enough to make projects viable when automakers invest together.
-\par\addvspace{4pt}\textbf{Chipmakers’ Process Node Upgrades and Upstream Supplier Learning} with Mervyn Ho\par\nopagebreak
+\par\addvspace{15pt}\textbf{Chipmakers’ Process Node Upgrades and Upstream Supplier Learning} with Mervyn Ho\par\nopagebreak\vspace{2pt}\nopagebreak
 Abstract: Do advances in chip fabrication induce equipment suppliers to learn and develop better products? I use supply relationships in place before chipmakers upgrade their process nodes to define suppliers’ exposure. I compare changes in equipment specifications and new product introductions among suppliers whose existing customers move to a more advanced node with changes among suppliers whose customers stay at the same node over the same period. An event study tests whether their products begin to diverge after the upgrade. The project examines whether more demanding customers induce learning upstream and improve the quality of production inputs.
-\par\addvspace{4pt}\textbf{Tariffs and Cross-Border Vertical Integration in Third Countries}\par\nopagebreak
+\par\addvspace{15pt}\textbf{Tariffs and Cross-Border Vertical Integration in Third Countries}\par\nopagebreak\vspace{2pt}\nopagebreak
 Abstract: We study whether the 2018–19 U.S. tariffs on Chinese goods led U.S. importers to establish or acquire manufacturing affiliates outside China. We compare firms that imported the same product before the trade war but differed in their reliance on independent Chinese suppliers, measuring exposure as the firm’s 2017 sourcing share from those suppliers multiplied by the product’s tariff increase. We link BEA affiliate entry dates to monthly customs records by U.S. parent, country, and industry. This allows us to test whether more exposed firms gained manufacturing affiliates in third countries and subsequently increased related-party imports of the affected goods from those countries. We also estimate how much their purchases from independent suppliers in third countries changed.
-\par\addvspace{4pt}\textbf{Worker Mobility and Returns to Multinational Experience in Mexico} with Martin Tobal\par\nopagebreak
+\par\addvspace{15pt}\textbf{Worker Mobility and Returns to Multinational Experience in Mexico} with Martin Tobal\par\nopagebreak\vspace{2pt}\nopagebreak
 Abstract: This paper asks whether skills acquired at multinationals remain valuable when workers move to domestic firms. We propose linking Mexico’s IMSS employer–employee records to firm ownership and customs data. Using a movers event study, we compare wage trajectories around job changes for workers moving from multinationals to domestically owned firms and workers moving between domestically owned firms. Among workers who joined Mexican-owned exporters before the 2018–19 U.S. tariffs on China, we test whether the wage gap between the two groups widens more at firms whose pre-tariff U.S. export mix made them more exposed to the shock. This test provides evidence on whether skills acquired at multinationals become more valuable when domestic exporters face stronger demand.
-\Needspace{8\baselineskip}
+\newpage
+\fontsize{10.5}{11.85}\selectfont
 \section*{Teaching Experience}
 \textbf{University of California, Los Angeles (UCLA)}\\
 Teaching Assistant, Principles of Economics (Winter 2024, Spring 2026)\\
