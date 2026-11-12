@@ -8,7 +8,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: "Sunny_Liang_Tan_CV.pdf?v=trade-international-macro-f89f94b8da"
+      href: "Sunny_Liang_Tan_CV.pdf?v=ev-abstract-56853f9fe2"
     - icon: twitter-x
       text: X
       href: https://x.com/LiangTan12
