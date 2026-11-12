@@ -1,5 +1,4 @@
 /* Research: every full abstract appears on one page. */
-body.home-page #quarto-document-content,
 body.research-page #quarto-document-content {
   width: 100%;
   max-width: 1000px;
@@ -46,53 +45,4 @@ body.research-page #quarto-document-content {
   margin-bottom: 0.4rem;
   font-size: 1.15rem;
   line-height: 1.4;
-}
-
-/* The JMP abstract wraps around a smaller figure on wide screens. */
-#job-market-paper {
-  scroll-margin-top: 4.5rem;
-}
-
-.jmp-panel {
-  display: flow-root;
-}
-
-.jmp-takeaway {
-  width: 100%;
-  max-width: 28rem;
-  margin: 0 0 1.1rem;
-  padding: 0.7rem;
-  background: #faf8f1;
-  border: 1px solid #e5ddc5;
-  border-radius: 0.35rem;
-}
-
-.jmp-figure-link {
-  display: inline-block;
-}
-
-.jmp-figure-link:focus-visible {
-  outline: 2px solid #2780e3;
-  outline-offset: 3px;
-}
-
-.jmp-takeaway img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.jmp-takeaway figcaption {
-  padding: 0.5rem 0.2rem 0.1rem;
-  color: #383327;
-  font-size: 0.9rem;
-  line-height: 1.45;
-}
-
-@media (min-width: 960px) {
-  .jmp-takeaway {
-    float: right;
-    width: 42%;
-    margin: 0.15rem 0 0.9rem 1.5rem;
-  }
 }
