@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: "Sunny_Liang_Tan_CV.pdf?v=upstream-scale-economies-0246c45041"
+      href: "Sunny_Liang_Tan_CV.pdf?v=jmp-abstract-financing-types-7485323f67"
     - icon: twitter-x
       text: X
       href: https://x.com/LiangTan12
