@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - Sunny_Liang_Tan_CV.pdf
+    - research/figures/section7_factor_decomposition_95ci_labeled.png
+    - research/figures/section7_factor_decomposition_95ci_labeled.pdf
 
 website:
   title: "Sunny Liang Tan"
