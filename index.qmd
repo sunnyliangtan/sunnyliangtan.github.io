@@ -1,5 +1,5 @@
 ---
-title: "Sunny Liang Tan"
+title: "Liang (Sunny) Tan"
 image: Sunny.jpg
 about:
   id: short-bio
